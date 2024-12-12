@@ -1,5 +1,8 @@
 # stepsCalculator
 
+<img src="Untitled.jpg" alt="Stair Calculator Screenshot" width="400">
+
+
 A Python-based calculator for designing stairs according to Israeli building standards. Input the height and distance between two points, and the program outputs the optimal number, size, and dimensions of steps for construction.
 
 ⚠ Note: This program is still under development, so expect some bugs – I'm actively working to fix them. ⚠
