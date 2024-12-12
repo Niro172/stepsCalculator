@@ -15,4 +15,4 @@ Maximum slope: 4.5% (future updates will support higher slopes)
 Minimum: 3 steps
 The calculator provides all possible results, with or without podiums – it's up to you to decide how to proceed.
 
-I'm open to suggestions for improvement – feel free to share your ideas!"
+I'm open to suggestions for improvement – feel free to share your ideas!
